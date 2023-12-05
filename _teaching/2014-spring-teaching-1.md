@@ -2,19 +2,8 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: "[MATH 1011 University Mathematics I](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=MATH1011)"
+venue: "The University of Hong Kong, Department"
+date: Jan 2023 - May 2023
+location: "Hong Kong"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
